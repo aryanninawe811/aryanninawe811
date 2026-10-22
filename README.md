@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there, I'm Aryan Ninawe 👋
 
-<!--
-**aryanninawe811/aryanninawe811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student
 
-Here are some ideas to get you started:
+I'm a student interested in Python programming, Artificial Intelligence, Machine Learning, and Data Analysis. I enjoy learning new technologies and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🌱 Currently learning Python and AI/ML concepts
+- 📊 Interested in data analysis and visualization
+- 💻 Building practical programming projects
+- 🎯 Working to improve my problem-solving and development skills
+
+🛠️ Skills & Technologies
+
+- Language: Python
+- Libraries: Pandas, Matplotlib
+- Data Handling: CSV files and data validation
+- Currently Exploring: Artificial Intelligence and Machine Learning
+
+📌 Featured Project
+
+Student Performance Analysis System
+
+A Python project that analyzes student marks and generates performance reports.
+
+- Calculates student averages and assigns grades
+- Determines pass/fail status
+- Compares Math, Science, and English marks
+- Generates charts using Matplotlib
+- Exports reports to CSV files
+
+Technologies: Python, Pandas, Matplotlib
+
+📫 Connect With Me
+
+- GitHub: "@aryanninawe811" (https://github.com/aryanninawe811)
+- Email: aryanninawe007@gmail.com
